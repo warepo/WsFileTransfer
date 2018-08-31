@@ -1,0 +1,11 @@
+/Users/odahcam/Projects/odahcam/ws-file-transfer/ws-file-transfer-server/bin/Debug/netcoreapp2.1/ws-file-transfer-server.deps.json
+/Users/odahcam/Projects/odahcam/ws-file-transfer/ws-file-transfer-server/bin/Debug/netcoreapp2.1/ws-file-transfer-server.runtimeconfig.json
+/Users/odahcam/Projects/odahcam/ws-file-transfer/ws-file-transfer-server/bin/Debug/netcoreapp2.1/ws-file-transfer-server.runtimeconfig.dev.json
+/Users/odahcam/Projects/odahcam/ws-file-transfer/ws-file-transfer-server/bin/Debug/netcoreapp2.1/ws-file-transfer-server.dll
+/Users/odahcam/Projects/odahcam/ws-file-transfer/ws-file-transfer-server/bin/Debug/netcoreapp2.1/ws-file-transfer-server.pdb
+/Users/odahcam/Projects/odahcam/ws-file-transfer/ws-file-transfer-server/obj/Debug/netcoreapp2.1/ws-file-transfer-server.csprojAssemblyReference.cache
+/Users/odahcam/Projects/odahcam/ws-file-transfer/ws-file-transfer-server/obj/Debug/netcoreapp2.1/ws-file-transfer-server.csproj.CoreCompileInputs.cache
+/Users/odahcam/Projects/odahcam/ws-file-transfer/ws-file-transfer-server/obj/Debug/netcoreapp2.1/ws-file-transfer-server.AssemblyInfoInputs.cache
+/Users/odahcam/Projects/odahcam/ws-file-transfer/ws-file-transfer-server/obj/Debug/netcoreapp2.1/ws-file-transfer-server.AssemblyInfo.cs
+/Users/odahcam/Projects/odahcam/ws-file-transfer/ws-file-transfer-server/obj/Debug/netcoreapp2.1/ws-file-transfer-server.dll
+/Users/odahcam/Projects/odahcam/ws-file-transfer/ws-file-transfer-server/obj/Debug/netcoreapp2.1/ws-file-transfer-server.pdb
